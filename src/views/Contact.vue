@@ -1,14 +1,14 @@
 <template>
   <section id="contact">
-  
+
   <h1 class="text-dark">Contact</h1>
-  
+
   <div class="contact-wrapper">
-  
-  <!-- Left contact page --> 
-    
+
+  <!-- Left contact page -->
+
     <form id="contact-form" class="form-horizontal" role="form">
-       
+
       <div class="form-group">
         <div class="col-sm-12">
           <input type="text" class="form-control" id="name" placeholder="NAME" name="name" value="" required>
@@ -22,27 +22,27 @@
       </div>
 
       <textarea class="form-control" rows="10" placeholder="MESSAGE" name="message" required></textarea>
-      
+
       <button class="btn btn-primary send-button" id="submit" type="submit" value="SEND">
         <div class="alt-send-button">
           <i class="bi bi-airplane"></i><span class="send-text">SEND</span>
         </div>
-      
+
       </button>
-      
+
     </form>
-    
-  <!-- Left contact page --> 
-    
+
+  <!-- Left contact page -->
+
       <div class="direct-contact-container">
 
         <ul class="contact-list">
           <li class="list-item"><i class="bi bi-geo-alt fa-2x"><span class="contact-text place">City, State</span></i></li>
-          
+
           <li class="list-item"><i class="bi bi-phone fa-2x"><span class="contact-text phone"><router-link to="tel:1-212-555-5555" title="Give me a call">(313) 555-5298</router-link></span></i></li>
-          
+
           <li class="list-item"><i class="bi bi-envelope fa-2x"><span class="contact-text gmail"><router-link to="mailto:#" title="Send me an email">tommorowtech@gmail.com</router-link></span></i></li>
-          
+
         </ul>
 
         <hr>
@@ -58,24 +58,28 @@
           </li>
           <li><router-link to="#" target="_blank" class="contact-icon">
             <i class="bi bi-instagram" aria-hidden="true"></i></router-link>
-          </li>       
+          </li>
         </ul>
         <hr>
 
         <div class="copyright">&copy; ALL OF THE RIGHTS RESERVED</div>
 
       </div>
-    
+
   </div>
-  
-</section>  
-  
-  
+
+</section>
+
+
 </template>
+
+
 
 <script>
 
 </script>
+
+
 
 <style scoped>
 

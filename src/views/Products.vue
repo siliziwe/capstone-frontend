@@ -1,5 +1,5 @@
 <template>
-  <section class="section-products">
+  <section class="section-products py-5 my-5 p-5">
       <div class="header">
         <!-- <h3>Featured Product</h3> -->
         <h1>Products</h1>

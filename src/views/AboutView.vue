@@ -3,7 +3,7 @@
 				<div>
         <div class="wrapper">
             <div class="container" id="cont">
-            <h1>About Us</h1>
+            <h2 class="text-dark text-center py-5">About Us</h2>
             </div>
         </div>
 				</div>
@@ -13,10 +13,10 @@
 
 				<img class="right1" src="https://i.postimg.cc/k5sN657h/RD-Y2-Personal-assitant.jpg" alt="" />
 
-				<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque deleniti officiis ipsum, sunt cupiditate minus, id ut sapiente vitae eum voluptate expedita sint dolor eos molestiae quam harum non? Pariatur?
+				<p> Acquired by LC in 2039, Tommorow-Tech continues to innovate and dominate at the intersection of technology.
 					<br>
 					<br>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis temporibus dolorum necessitatibus, excepturi facere recusandae doloremque sit aperiam suscipit voluptas impedit natus consequuntur assumenda! Tempora soluta animi et tempore illo!
+				Tommorow-Tech offer the best and advanced technology in the decade. We have the most advanced technolgy on the planet and we have some of the best team behind the scenes.
 
 				</p>
 
@@ -38,14 +38,14 @@
 
 					<h3>
 						<router-link to="#">
-							lorem picsum
+							Check this out
 							<img src="https://i.postimg.cc/Px5wZdVS/SONY-LIMIT-BREAKER-MAX.jpg" alt="" />
 						</router-link>
 					</h3>
 
 					<strong class="date">Nov 28th, 2061</strong>
 
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga libero cum ratione alias veritatis tempora reprehenderit aliquid necessitatibus nemo unde. Quia, quod. Perferendis, corrupti maiores beatae doloremque eum ipsa porro!<router-link to="https://ivypanda.com/essays/camping-its-advantages-and-disadvantages/">Read full article &rarr;</router-link></p>
+					<p>From mobile phones to robots and heavy machinery, here at Tommorow-Techwe have it all. Get everything you want today<router-link to="https://ivypanda.com/essays/camping-its-advantages-and-disadvantages/">Read full article &rarr;</router-link></p>
 
 				</router-linkrticle>
 
@@ -53,14 +53,14 @@
 
 					<h3>
 						<router-link to="#">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
+							Our inventions.
 							<img src="https://i.postimg.cc/5twhvVQQ/drone2.jpg" alt="" />
 						</router-link>
 					</h3>
 
-					<strong class="date">Jun 7th, 2056</strong>
+					<strong class="date">Jun 20th, 2056</strong>
 
-					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores cupiditate libero obcaecati architecto, dolore placeat facere illo, laboriosam nam soluta assumenda laborum suscipit aliquid numquam voluptatibus animi sed! Illum, vero!<router-link to="#">Read full article &rarr;</router-link></p>
+					<p>Our tech team invents some of the world's best technology devices and equipment. Technology is the future and Tommorow-Tech proves just that<router-link to="#">Read full article &rarr;</router-link></p>
 
 				</router-linkrticle>
 
