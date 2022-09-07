@@ -6,7 +6,7 @@
             <h2 class="text-dark text-center py-5">About Us</h2>
             </div>
         </div>
-				</div>
+		</div>
 
 			<article id="block1" class="module-block">
 
@@ -182,7 +182,7 @@ text-align: center;
 }
 
 #cont{
-	box-shadow: 10px, 10px #272727;
+	box-shadow: 10px 5px 10px  #272727;
 }
 
 
@@ -416,5 +416,8 @@ width: 100%;
 height: 100%;
 object-fit: cover;
 }
+
+
+
 
 </style>

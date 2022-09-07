@@ -8,13 +8,11 @@
 
 
 <script>
-import carousel from '../components/carousel.vue'
-
 
   export default {
     mounted () {
     AOS.init()
-}
+  }
 }
 </script>
 
@@ -24,8 +22,10 @@ import carousel from '../components/carousel.vue'
 <style scoped>
   #landing{
     min-height: 100vh;
-    background: url(https://i.postimg.cc/wvxxpv9d/blue-cyber-circuit-future-technology-image-vector.webp);
+    background: url(https://i.postimg.cc/wvxxpv9d/blue-cyber-circuit-future-technology-image-vector.webp) ;
+    display: inline-flex;
     background-attachment: fixed;
-    min-width: 100%;
+    min-width: 100vw;
+    margin-right: 300px;
 }
 </style>

@@ -2,7 +2,7 @@
   <div id="signup" class="container min-vh-100">
     <h2 class="fw-bold p-2 text-center">Register</h2>
     <div class="col-md-6 m-auto">
-    <form class="container border border-black h-100" @submit.prevent="register">
+        <form class="container border border-black h-100" @submit.prevent="register">
       <div class="form-group">
         <label for="firstName">First Name</label>
         <input type="text" class="form-control pass m-auto" id="firstName" v-model="firstName">
@@ -31,7 +31,7 @@
     </div>
     </div>
 
-    <form>
+
 <div class="container d-block min-vh-100">
   <h2 class="text-dark text-center"> Login</h2>
     <form class="form-inline">
@@ -46,7 +46,10 @@
       <button type="submit" class="btn btn-primary mb-2">Login</button>
     </form>
 </div>
+
 </template>
+
+
 
 <script>
 // export default {
